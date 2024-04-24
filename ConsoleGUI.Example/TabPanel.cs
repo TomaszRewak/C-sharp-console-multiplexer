@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using ConsoleGUI;
 using ConsoleGUI.Controls;
 using ConsoleGUI.Data;
 using ConsoleGUI.Input;
